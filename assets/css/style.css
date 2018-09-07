@@ -1,0 +1,65 @@
+body{
+    background-image: url("../images/background2.jpg");  
+
+}
+
+
+div.header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px;
+    width: 764px;
+
+}
+
+div.directions{
+    background-color: #e0e0eb;
+    height: 250px;
+    width: 764px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin: 10px;
+
+}
+
+.gemImage{
+	height: 65px;
+	margin: 10px;
+}
+
+
+div.jewelvalue{
+    background-color: gold;
+    float: left;
+    height: 150px;
+    width: 150px;
+    padding-left: 10px;
+    margin: 10px;
+}
+
+#randomNumber{
+    font-size: 50px;
+
+}
+
+div.winsLosses{
+    background-color: silver;
+    float: left;
+    height: 150px;
+    width: 150px;
+    padding-left: 10px;
+    margin: 10px;
+}
+
+div.container{
+    float: left;
+    height: 150px;
+    background-color: white;
+    margin: 10px;
+    padding-left: 10px;
+    border: solid 2px gold;
+   
+}
+
+
+
